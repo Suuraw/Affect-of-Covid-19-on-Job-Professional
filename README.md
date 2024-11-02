@@ -6,9 +6,6 @@ This project analyzes the effects of COVID-19 on job professionals using various
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Project](#running-the-project)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
@@ -36,3 +33,9 @@ Make sure you have the following installed on your system:
 2. **Install Jupyter Notebook**:
    ```bash
    pip install notebook
+
+## Running the Project
+- For Windows:
+     ```bash
+     jupyter notebook
+     ```
